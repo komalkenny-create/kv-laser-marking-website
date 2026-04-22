@@ -131,6 +131,7 @@ ul { list-style: none; }
     font-size: 0.9rem;
     color: var(--text);
     transition: var(--transition);
+    white-space: nowrap;
 }
 .nav-links a:hover { color: var(--primary); }
 
